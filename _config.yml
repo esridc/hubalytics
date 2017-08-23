@@ -45,13 +45,13 @@ title: "hub.arcgis.com | Measuring Civic Engagement."
 description: "Official data on web traffic to hundreds of US federal government websites. Published by the Digital Analytics Program."
 
 # Site's own URL
-url: https://esridc.github.io/analytics.usa.gov/
+url: https://esridc.github.io/hubalytics/
 
 # Default dropdown title, will not appear if there are no sub-pages
 dropdown_title: All Participating Websites
 
 # Default data url (also needs to be in nginx.conf for cloud.gov deployment)
-data_url: https://esridc.github.io/analytics.usa.gov/data
+data_url: http://bucket.s3.amazonaws.com/hubanalytics-dev-aturner/data
 
 # twitter information
 twitter: arcgishub
