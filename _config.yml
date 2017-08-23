@@ -51,7 +51,7 @@ url: https://esridc.github.io/hubalytics/
 dropdown_title: All Participating Websites
 
 # Default data url (also needs to be in nginx.conf for cloud.gov deployment)
-data_url: http://bucket.s3.amazonaws.com/hubanalytics-dev-aturner/data
+data_url: https://bucket.s3.amazonaws.com/hubanalytics-dev-aturner/data
 
 # twitter information
 twitter: arcgishub
